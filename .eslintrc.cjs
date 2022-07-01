@@ -8,6 +8,7 @@ module.exports = {
     "eslint:recommended",
     "@vue/eslint-config-prettier",
   ],
+  plugins: ["html"],
   overrides: [
     // 页面组件忽略命名规则
     {
