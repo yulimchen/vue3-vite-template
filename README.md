@@ -1,41 +1,32 @@
-# spgames-web-sdk
+# vue3-vite-template
 
-This template should help get you started developing with Vue 3 in Vite.
+按照[官方文档](https://staging-cn.vuejs.org/guide/quick-start.html)进行项目初始化，使用 `pnpm` 作项目包管理器，技术栈：Vue3 + vite + pinia（状态管理）+ vue-router + eslint。
 
-## Recommended IDE Setup
 
-[VSCode](https://code.visualstudio.com/) + [Volar](https://marketplace.visualstudio.com/items?itemName=Vue.volar) (and disable Vetur) + [TypeScript Vue Plugin (Volar)](https://marketplace.visualstudio.com/items?itemName=Vue.vscode-typescript-vue-plugin).
 
-## Customize configuration
+## 依赖安装
 
-See [Vite Configuration Reference](https://vitejs.dev/config/).
-
-## Project Setup
-
-```sh
-npm install
+```shell
+pnpm install
 ```
 
-### Compile and Hot-Reload for Development
 
-```sh
-npm run dev
+
+## 运行
+
+```shell
+pnpm run dev
 ```
 
-### Compile and Minify for Production
 
-```sh
-npm run build
+
+## 打包
+
+```shell
+pnpm run build
 ```
 
-### Run Unit Tests with [Vitest](https://vitest.dev/)
 
-```sh
-npm run test:unit
-```
 
-### Lint with [ESLint](https://eslint.org/)
 
-```sh
-npm run lint
-```
+
